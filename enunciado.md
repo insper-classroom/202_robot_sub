@@ -151,7 +151,6 @@ Em seguida faça o [catkin_make](./instrucoes_setup.md).
 ## Questão 3
 
 
-<img src="vai_gato.jpg" width=50%><img>
 
 Para executar o cenário, faça:
 
@@ -160,7 +159,7 @@ Para executar o cenário, faça:
 
 Seu robô está num cenário como o que pode ser visto na figura: 
 
-<img src="./pista_u_ids.jpg" width=75%></img>
+<img src="vai_gato.jpg" width=50%><img>
 
 
 #### O que é para fazer
@@ -201,7 +200,7 @@ Casos intermediários ou omissos da rubrica serão decididos pelo professor.
 
 ## Questão 4 (3.33 pontos)
 
-<img src="Q4.jpg"> width=50%></img>
+<img src="Q4.jpg" width=50%></img>
 
 Seu robô está no cenário visível abaixo:
 
