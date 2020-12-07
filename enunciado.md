@@ -100,7 +100,7 @@ Você vai notar que este programa roda o vídeo `dominoes.mp4`. Baixe o vídeo [
 
 Um programa que escreve *na tela* o valor da peça de dominó que aparece a cada frame do vídeo. 
 
-Por exemplo para a peça acima, deve escrever **4 por 3**
+Por exemplo para a peça acima, deve escrever **5 por 3**
 
 
 |Resultado| Conceito| 
@@ -174,11 +174,9 @@ O programa termina com o robô tendo uma boa visão do gato centralizado na imag
 #### Detalhes de como rodar
 
 
-O código para este exercício deve estar em: `p2_202/scripts/Q3.py`
+O código para este exercício deve estar em: `sub_202/scripts/Q3.py`
 
-Para rodar, recomendamos que faça:
 
-    roslaunch my_simulation pista_u.launch
 
 
 
